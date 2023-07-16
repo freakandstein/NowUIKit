@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
     NowUIKit is design system dynamic framework, specifically implemented to provide UIUX components to the nobuneo by Nobu Bank iOS application.
     DESC
 
-    s.homepage         = 'https://gitrepos.int.dp.xl.co.id/ultimate-myxl/'
+    s.homepage         = 'https://github.com/freakandstein/NowUIKit'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'satrio' => 'freakandstein@gmail.com' }
     s.source           = { :git => 'https://github.com/freakandstein/NowUIKit.git', :tag => s.version.to_s }

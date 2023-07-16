@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "summary": "A short description of NowUIKit.",
   "description": "NowUIKit is design system dynamic framework, specifically implemented to provide UIUX components to the nobuneo by Nobu Bank iOS application.",
-  "homepage": "https://gitrepos.int.dp.xl.co.id/ultimate-myxl/",
+  "homepage": "https://github.com/freakandstein/NowUIKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"

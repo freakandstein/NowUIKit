@@ -48,6 +48,7 @@
 		52458FEC2A64552C006F1FB3 /* UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52458FEB2A64552C006F1FB3 /* UIFont.swift */; };
 		52458FEE2A645563006F1FB3 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52458FED2A645563006F1FB3 /* UIColor.swift */; };
 		52458FF02A6456CE006F1FB3 /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52458FEF2A6456CE006F1FB3 /* UIViewController+Extension.swift */; };
+		52458FF22A645BA8006F1FB3 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 52458FF12A645BA8006F1FB3 /* LICENSE */; };
 		9EC3297DE29A9884E937B965 /* Pods_NowUIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B75D15E73E34DD5C35080ED /* Pods_NowUIKit.framework */; };
 /* End PBXBuildFile section */
 
@@ -97,6 +98,7 @@
 		52458FEB2A64552C006F1FB3 /* UIFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIFont.swift; sourceTree = "<group>"; };
 		52458FED2A645563006F1FB3 /* UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
 		52458FEF2A6456CE006F1FB3 /* UIViewController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extension.swift"; sourceTree = "<group>"; };
+		52458FF12A645BA8006F1FB3 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		9B75D15E73E34DD5C35080ED /* Pods_NowUIKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NowUIKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -151,6 +153,7 @@
 				52458F952A641D09006F1FB3 /* Assets.xcassets */,
 				52458F972A641D09006F1FB3 /* LaunchScreen.storyboard */,
 				52458F9A2A641D09006F1FB3 /* Info.plist */,
+				52458FF12A645BA8006F1FB3 /* LICENSE */,
 			);
 			path = NowUIKit;
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 				52458F962A641D09006F1FB3 /* Assets.xcassets in Resources */,
 				52458FE72A6454EB006F1FB3 /* Roboto-Bold.ttf in Resources */,
 				52458FE52A6454EB006F1FB3 /* OCR-A.ttf in Resources */,
+				52458FF22A645BA8006F1FB3 /* LICENSE in Resources */,
 				52458FD32A6454EB006F1FB3 /* Roboto-Light.ttf in Resources */,
 				52458FD72A6454EB006F1FB3 /* Inter-Thin.ttf in Resources */,
 				52458FDD2A6454EB006F1FB3 /* Roboto-ThinItalic.ttf in Resources */,
