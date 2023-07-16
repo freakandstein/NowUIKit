@@ -60,7 +60,7 @@ extension MainViewController: UITableViewDelegate, UITableViewDataSource {
         let model = listMenu[indexPath.row]
         switch model.component {
             case .nowSnackbar:
-                print("NowSnackBar Show")
+                NowSnackBarWireframe.show(message: "Tentukan jumlah dan jangka waktu untuk menghitung pendapatan bunga", style: .error)
         }
     }
 }

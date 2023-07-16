@@ -120,7 +120,7 @@ class NowSnackBarWireframe {
         vc.onClickButton = onClickButton
         
         if vc.isShowing == false {
-//            vc.showSnackBarBottom(duration: duration, avoidTabBar: avoidTabBar)
+            vc.showSnackBarBottom(duration: duration, avoidTabBar: avoidTabBar)
             vc.messageLabel.text = message
             if buttonTitle != nil {
                 vc.setButtonTitle(buttonTitle: buttonTitle?.rawValue)
