@@ -1,0 +1,25 @@
+{
+  "name": "NowUIKit",
+  "swift_versions": "5.2",
+  "version": "1.0.0",
+  "summary": "A short description of NowUIKit.",
+  "description": "NowUIKit is design system dynamic framework, specifically implemented to provide UIUX components to the nobuneo by Nobu Bank iOS application.",
+  "homepage": "https://gitrepos.int.dp.xl.co.id/ultimate-myxl/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "satrio": "freakandstein@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/freakandstein/NowUIKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "NowUIKit/Classes/**/*",
+  "resources": "NowUIKit/Resource/*",
+  "swift_version": "5.2"
+}

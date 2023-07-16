@@ -27,9 +27,6 @@ Pod::Spec.new do |s|
     s.author           = { 'satrio' => 'freakandstein@gmail.com' }
     s.source           = { :git => 'https://github.com/freakandstein/NowUIKit.git', :tag => s.version.to_s }
     s.ios.deployment_target = '12.0'
-    s.source_files = 'XLAlbums/Classes/**/*'
-    s.resource = 'XLAlbums/Resource/*'
-    s.resource_bundles = {
-        'XLAlbums' => ['XLAlbums/Fonts/*', 'XLAlbums/Resource/*']
-    }
+    s.source_files = 'NowUIKit/Classes/**/*'
+    s.resource = 'NowUIKit/Resource/*'
 end
